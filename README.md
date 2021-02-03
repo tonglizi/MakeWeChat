@@ -1,3 +1,6 @@
+# Make Wechat
+在原始版本的基础上，修改为合成微信LOGO
+***************************************************
 # Make WUT
 
 合成武汉理工小游戏，Let's make WUT great again (Doge
